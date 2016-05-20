@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="StrutsExample:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrutsExample_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="StrutsExample/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
